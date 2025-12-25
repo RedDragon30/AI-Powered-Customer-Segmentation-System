@@ -84,13 +84,13 @@ The **Customer Segmentation System** is an end-to-end machine learning solution 
 
 ## 🎬 Demo
 
-<img src="demo/segment1.png" alt="workflow" width="60%">
+<img src="demo/segment1.png" alt="workflow" width="80%">
 
-<img src="demo/segment2.png" alt="workflow" width="60%">
+<img src="demo/segment2.png" alt="workflow" width="80%">
 
-<img src="demo/segment3.png" alt="workflow" width="60%">
+<img src="demo/segment3.png" alt="workflow" width="80%">
 
-<img src="demo/segment4.png" alt="workflow" width="60%">
+<img src="demo/segment4.png" alt="workflow" width="80%">
 
 ## 🏗️ Architecture
 
